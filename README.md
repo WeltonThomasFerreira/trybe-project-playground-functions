@@ -16,7 +16,7 @@
 - Utilizar a lógica de programação na resolução de problemas;
 - Manipular objetos;
 - Utilizar o comando for/in ;
-- Utilizar funções para organizar e estruturar o seu código;
+- Utilizar funções para organizar e estruturar o seu código.
 
 ## Desenvolvimento
 Funções seguindo os requisitos especificados para o correto comportamento de cada uma delas.
@@ -26,8 +26,8 @@ Funções seguindo os requisitos especificados para o correto comportamento de c
 
 ## Resultados
 
-- `1` dia de projeto.
-- `11` requisitos.
-- Percentual de cumprimento de requisitos obrigatórios `100.00%`.
+- `1` dia de projeto;
+- `11` requisitos;
+- Percentual de cumprimento de requisitos obrigatórios `100.00%`;
 - Percentual de cumprimento de requisitos totais `100.00%`.
 
